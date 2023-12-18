@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Spencer!
 
-- 👀 I’m interested in most things science and tech related.
+- 📊 I’m interested in most things science and tech related.
 - 📚 I’m currently studying physics and information science at the University of Pittsburgh. 
 - 📍 I'm from Rochester, NY. 
   
